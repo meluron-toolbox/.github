@@ -4,7 +4,7 @@ Welcome to **toolbox** — a growing collection of handy tools. Explore, experim
 
 ---
 
-## AudioKit  
+## audiokit  
 ![In Progress](https://img.shields.io/badge/status-in%20progress-yellow)  
 A suite of useful tools for working with audio. More features coming soon!
 
