@@ -1,6 +1,6 @@
 # 🔧 toolbox
 
-Welcome to **toolbox** — a growing collection of handy tools. Explore, experiment, and enjoy!
+Welcome to **toolbox**, a growing collection of handy tools. Explore, experiment, and enjoy!
 
 ---
 
