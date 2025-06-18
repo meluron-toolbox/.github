@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width="100" align="center">
-      <a href="https://www.github.com/meluron-toolbox" target="_blank">
+      <a href="https://www.github.com/meluron-toolbox/audiokit" target="_blank">
         <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/audiokit/orig.png" width="150" alt="toolbox" />
       </a>
     </td>
@@ -25,12 +25,12 @@
   </tr>
   <tr>
     <td width="100" align="center">
-      <a href="https://www.github.com/meluron-toolbox" target="_blank">
+      <a href="https://www.github.com/meluron-toolbox/metrogen" target="_blank">
         <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/metrogen/orig.png" width="150" alt="toolbox" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/meluron-toolbox/audiokit"><strong>metrogen</strong></a><br/>
+      <a href="https://github.com/meluron-toolbox/metrogen"><strong>metrogen</strong></a><br/>
       <em>A tool for creating customised metronome to enhance your practice sessions.</em>
     </td>
   </tr>
