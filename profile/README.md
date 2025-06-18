@@ -1,14 +1,37 @@
-# 🔧 toolbox
+<table>
+  <tr>
+    <td width="200" valign="middle">
+      <a href="https://www.github.com/meluron-toolbox" target="_blank">
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/orig.png" width="250" alt="meluron-toolbox logo" />
+      </a>
+    </td>
+    <td valign="middle">
+       A growing collection of handy tools. Explore, experiment, and enjoy!
+    </td>
+  </tr>
+</table>
 
-Welcome to **toolbox**, a growing collection of handy tools. Explore, experiment, and enjoy!
-
----
-
-## audiokit  
-![In Progress](https://img.shields.io/badge/status-in%20progress-yellow)  
-A suite of useful tools for working with audio. More features coming soon!
-
----
-
-**Want to suggest a tool?**  
-Submit your ideas via GitHub Issues or **themeluron[at]gmail.com**.
+<table>
+  <tr>
+    <td width="100" align="center">
+      <a href="https://www.github.com/meluron-toolbox" target="_blank">
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/audiokit/orig.png" width="150" alt="toolbox" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/meluron-toolbox/audiokit"><strong>audiokit</strong></a><br/>
+      <em>A suite of useful tools for working with audio. More features coming soon!</em>
+    </td>
+  </tr>
+  <tr>
+    <td width="100" align="center">
+      <a href="https://www.github.com/meluron-toolbox" target="_blank">
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/metrogen/orig.png" width="150" alt="toolbox" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/meluron-toolbox/audiokit"><strong>metrogen</strong></a><br/>
+      <em>A suite of useful tools for creating customised metronome for your practice session.</em>
+    </td>
+  </tr>
+</table>
