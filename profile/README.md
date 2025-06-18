@@ -31,7 +31,7 @@
     </td>
     <td>
       <a href="https://github.com/meluron-toolbox/audiokit"><strong>metrogen</strong></a><br/>
-      <em>A suite of useful tools for creating customised metronome for your practice session.</em>
+      <em>A tool for creating customised metronome to enhance your practice sessions.</em>
     </td>
   </tr>
 </table>
