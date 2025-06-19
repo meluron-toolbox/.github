@@ -13,9 +13,9 @@
 
 <table>
   <tr>
-    <td width="100" align="center">
+    <td height=100 width=100 align="center">
       <a href="https://www.github.com/meluron-toolbox/audiokit" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/audiokit/orig.png" width="150" alt="toolbox" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/audiokit/orig.png" height=80 alt="toolbox" />
       </a>
     </td>
     <td>
@@ -24,14 +24,25 @@
     </td>
   </tr>
   <tr>
-    <td width="100" align="center">
+    <td height=100 width=100 align="center">
       <a href="https://www.github.com/meluron-toolbox/metrogen" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/metrogen/orig.png" width="150" alt="toolbox" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/metrogen/orig.png" height=80 alt="toolbox" />
       </a>
     </td>
     <td>
       <a href="https://github.com/meluron-toolbox/metrogen"><strong>metrogen</strong></a><br/>
       <em>A tool for creating customised metronome to enhance your practice sessions.</em>
+    </td>
+  </tr>
+  <tr>
+    <td height=100 width=100 align="center">
+      <a href="https://www.github.com/meluron-toolbox/musa" target="_blank">
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/musa/orig.png" height=80 alt="toolbox" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/meluron-toolbox/musa"><strong>musa</strong></a><br/>
+      <em>A tool for computing musical attributes.</em>
     </td>
   </tr>
 </table>
