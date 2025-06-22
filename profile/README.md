@@ -15,7 +15,7 @@
   <tr>
     <td height=100 width=100 align="center">
       <a href="https://www.github.com/meluron-toolbox/audiokit" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/audiokit/orig.png" height=80 alt="toolbox" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/audiokit/orig.png" height=80 alt="audiokit" />
       </a>
     </td>
     <td>
@@ -26,7 +26,7 @@
   <tr>
     <td height=100 width=100 align="center">
       <a href="https://www.github.com/meluron-toolbox/metrogen" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/metrogen/orig.png" height=80 alt="toolbox" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/metrogen/orig.png" height=80 alt="metrogen" />
       </a>
     </td>
     <td>
@@ -37,7 +37,7 @@
   <tr>
     <td height=100 width=100 align="center">
       <a href="https://www.github.com/meluron-toolbox/musa" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/musa/orig.png" height=80 alt="toolbox" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/musa/orig.png" height=80 alt="musa" />
       </a>
     </td>
     <td>
