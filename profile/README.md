@@ -19,7 +19,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/meluron-toolbox/audiokit"><strong>audiokit</strong></a><br/>
+      <a href="https://github.com/meluron-toolbox/audiokit" target="_blank"><strong>audiokit</strong></a><br/>
       <em>A suite of useful tools for working with audio. More features coming soon!</em>
     </td>
   </tr>
@@ -30,7 +30,9 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/meluron-toolbox/metrogen"><strong>metrogen</strong></a><br/>
+      <a href="https://github.com/meluron-toolbox/metrogen" target="_blank"><strong>metrogen</strong></a>
+      <span>  |  </span>
+      <a href="https://meluron-toolbox.github.io/metrogen/" target="_blank"><strong>docs</strong></a><br/>
       <em>A tool for creating customised metronome to enhance your practice sessions.</em>
     </td>
   </tr>
@@ -41,7 +43,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/meluron-toolbox/musa"><strong>musa</strong></a><br/>
+      <a href="https://github.com/meluron-toolbox/musa" target="_blank"><strong>musa</strong></a><br/>
       <em>A tool for computing musical attributes.</em>
     </td>
   </tr>
