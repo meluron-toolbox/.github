@@ -43,8 +43,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/meluron-toolbox/musa" target="_blank"><strong>musa</strong></a><br/>
-      <em>A tool for computing musical attributes.</em>
+      <a href="https://github.com/meluron-toolbox/musa" target="_blank"><strong>modusa</strong></a><br/>
+      <em>A modular signal analysis tool.</em>
     </td>
   </tr>
 </table>
