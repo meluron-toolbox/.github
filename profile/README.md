@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td height=100 width=100 align="center">
-      <a href="https://www.github.com/meluron-toolbox/musa" target="_blank">
+      <a href="https://www.github.com/meluron-toolbox/modusa" target="_blank">
         <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/musa/orig.png" height=80 alt="musa" />
       </a>
     </td>
