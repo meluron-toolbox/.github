@@ -43,7 +43,7 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/meluron-toolbox/musa" target="_blank"><strong>modusa</strong></a><br/>
+      <a href="https://github.com/meluron-toolbox/modusa" target="_blank"><strong>modusa</strong></a><br/>
       <em>A modular signal analysis tool.</em>
     </td>
   </tr>
