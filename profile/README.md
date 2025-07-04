@@ -12,7 +12,7 @@
 </table>
 
 <table>
-    <td height=100 width=200 align="center">
+    <td height=100 width=180 align="center">
       <a href="https://www.github.com/meluron-toolbox/modusa" target="_blank">
         <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/modusa/orig.png" height=80 alt="modusa" />
       </a>
