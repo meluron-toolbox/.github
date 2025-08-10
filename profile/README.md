@@ -19,7 +19,7 @@
     </td>
     <td>
       <a href="https://meluron-toolbox.github.io/modusa/" target="_blank"><strong>modusa</strong></a><br/>
-      <em>A modular framework for audio signal analysis and processing, designed to help researchers and developers build reusable DSP chains with minimal code.</em>
+      <em>A python library with utility tools designed especially for audio signals.</em>
     </td>
   </tr>
 </table>
