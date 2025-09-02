@@ -12,6 +12,8 @@
 </table>
 <hr>
 <table>
+  
+  <tr>
     <td height=100 width=180 align="center">
       <a href="https://www.github.com/meluron-toolbox/modusa" target="_blank">
         <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/modusa/icon_with_text.png" height=80 alt="modusa" />
@@ -22,4 +24,17 @@
       <em>A python library with utility tools designed especially for audio signals.</em>
     </td>
   </tr>
+  
+  <tr>
+  <td height=100 width=180 align="center">
+    <a href="https://www.github.com/meluron-toolbox/movid" target="_blank">
+      <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/movid/icon_with_text.png" height=80 alt="movid" />
+    </a>
+  </td>
+  <td>
+    <a href="https://meluron-toolbox.github.io/movid/" target="_blank"><strong>movid</strong></a><br/>
+    <em>A python library with utility tools designed to generate videos.</em>
+  </td>
+  </tr>
+  
 </table>
