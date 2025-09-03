@@ -16,7 +16,7 @@
   <tr>
     <td height=100 width=180 align="center">
       <a href="https://www.github.com/meluron-toolbox/modusa" target="_blank">
-        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/modusa/icon_with_text.png" height=80 alt="modusa" />
+        <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/modusa/icon.png" height=80 alt="modusa" />
       </a>
     </td>
     <td>
@@ -28,7 +28,7 @@
   <tr>
   <td height=100 width=180 align="center">
     <a href="https://www.github.com/meluron-toolbox/movid" target="_blank">
-      <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/movid/icon_with_text.png" height=80 alt="movid" />
+      <img src="https://raw.githubusercontent.com/meluron/assets/refs/heads/main/logos/meluron-toolbox/movid/icon.png" height=80 alt="movid" />
     </a>
   </td>
   <td>
